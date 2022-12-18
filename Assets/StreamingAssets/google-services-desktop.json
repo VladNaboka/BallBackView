@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380898128937",
+    "project_id": "vnabowini",
+    "storage_bucket": "vnabowini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380898128937:android:0a91ce562f0232986f9838",
+        "android_client_info": {
+          "package_name": "nepmac.winline.vinline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380898128937-h6kaibc8qmv7k1h9unknfssjqdtnd6s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBw3xAF6K4_BLVqhQZ1ycOlxeLehsoMCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380898128937-h6kaibc8qmv7k1h9unknfssjqdtnd6s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
